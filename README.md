@@ -1,4 +1,6 @@
 # 💫 About Me:
+👋 Hi! I’m Varun, a final-year bachelor’s student in Electronics and Communication Engineering with a passion for programming and electronics. I enjoy working with Python, pandas, Django, and AI/ML in Python, and I’m interested in collaborating with others who share these interests. <br><br>
+
 🌱 I’m currently learning Pytorch, DSA, React<br><br>👨‍💻 All of my projects are available at github<br><br>💬 Ask me about Python, Django and Pandas<br><br>📫 How to reach me penumudivarun6@gmail.com <br><br>
 
 
