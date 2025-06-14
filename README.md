@@ -1,7 +1,10 @@
 # 💫 About Me:
-👋 Hi! I’m Varun, a final-year bachelor’s student in Electronics and Communication Engineering with a passion for programming and electronics. I enjoy working with Python, pandas, Django, and AI/ML in Python, and I’m interested in collaborating with others who share these interests. <br><br>
+👋 Hi! I’m Varun, a final-year bachelor’s student in Electronics and Communication Engineering with a passion for ELectronics, Programming Micrcontrollers and AI/ML. I enjoy working with Microcontrollers, Stm32, Python, Django, and AI/ML, and I’m interested in collaborating with others who share these interests. <br><br>
 
-🌱 I’m currently learning Pytorch, DSA, React<br><br>👨‍💻 All of my projects are available at github<br><br>💬 Ask me about Python, AI/ML or Electronics <br><br>📫 How to reach me penumudivarun6@gmail.com <br><br>
+🌱 I’m currently learning STM32, ARM MCU's, Pytorch, DSA <br><br>
+👨‍💻 All of my projects are available at github<br><br>
+💬 Ask me about Electronics, Python and AI/ML <br><br>
+📫 How to reach me penumudivarun6@gmail.com <br><br>
 
 
 # 💻 Tech Stack:
