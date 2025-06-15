@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I’m Varun, a final-year bachelor’s student in Electronics and Communication Engineering with a passion for ELectronics, Programming Micrcontrollers and AI/ML. I enjoy working with Microcontrollers, Stm32, Python, Django, and AI/ML, and I’m interested in collaborating with others who share these interests. <br><br>
+👋 Hi! I’m Varun, an Embedded Software Engineer with a passion for ELectronics, Programming Micrcontrollers and AI/ML. I enjoy working with Microcontrollers, Stm32, Python, Django, and AI/ML, and I’m interested in collaborating with others who share these interests. <br><br>
 
 🌱 I’m currently learning STM32, ARM MCU's, Pytorch, DSA <br><br>
 👨‍💻 All of my projects are available at github<br><br>
